@@ -1,2 +1,3 @@
-Onsite Hackathon Week 2: LLM & RAG
+Hack 2: Table-based Thai Question Answering
+
 (ไม่มีไฟล์ที่เอาจริงในนี้)
